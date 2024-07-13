@@ -13,7 +13,7 @@
     <artifactId>batch-process</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>batch-process</name>
-    <description>Demo project for Spring Boot</description>
+    <description>Demo project for Batch Process</description>
     <properties>
         <java.version>17</java.version>
     </properties>
