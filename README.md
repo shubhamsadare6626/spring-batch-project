@@ -1,7 +1,6 @@
 # Spring Batch Porcessing
-- This project is a implementation of a Spring Boot application that contains with reading of CSV and excel file into Database and generating resulting data.
-Performed file generation by using itext library with encryption for user and admin user.
-
+- This project involves implementing a Spring Boot application that reads CSV and Excel files into a database, generates resulting data, and uses the iText library to create encrypted files for both user and admin access.
+  
 ## Prerequisites
 - Java Development Kit (JDK) 17 or later
 
